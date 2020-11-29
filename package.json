@@ -10,6 +10,7 @@
     "bin"
   ],
   "main": "lib/index.js",
+  
   "bin": "bin/gulp-common.js",
   "directories": {
     "lib": "lib"
